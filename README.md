@@ -73,7 +73,7 @@ Caso queira enviar uma imagem utilize a função <code>telegram.<span style='col
 
 ## Demonstração
 
-```
+```python
 import telegram_chat.bot as telegram
 
 telegram.sendMessage('Hello World!')
