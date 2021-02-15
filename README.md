@@ -52,7 +52,9 @@ No arquivo <span style='color:#0cb7f0;'>telegram_chat/keys.py</span> insira resp
 
 importe em seus arquivos:
 
-<code><i style="color:#e046e0">import</i> telegram_chat.bot <i style="color:#e046e0">as</i> telegram</code>
+```python
+import telegram_chat.bot as telegram
+```
 
 ## Funções
 
