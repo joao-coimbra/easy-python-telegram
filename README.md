@@ -38,7 +38,7 @@ Para começar clone os arquivos em seu diretório:
 $ git clone https://github.com/joao-coimbra/easy-python-telegram.git
 ```
 
-ou faça o download <a title="download" href="https://">clicando aqui</a>
+ou faça o download <a title="download" href="https://github.com/joao-coimbra/easy-python-telegram/archive/main.zip">clicando aqui</a>
 
 Instale a API do telegram
 
